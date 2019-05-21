@@ -11,7 +11,7 @@ public class AssertionsDemo {
 
         Assert.assertEquals(a, b);  // comparing a to b
     }
-
+//git one
 
     @Test
     public void test2(){

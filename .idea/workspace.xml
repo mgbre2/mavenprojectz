@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6f2b02-c3dc-4b35-bce8-60b62cba8b14" name="Default Changelist" comment="" />
+    <list default="true" id="af6f2b02-c3dc-4b35-bce8-60b62cba8b14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -128,6 +132,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -162,7 +169,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/DropDown.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DepartmentsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/forthat.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/IframeDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SwitchOptions.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DoubleClickTest.java" />
@@ -183,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Good.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyTextDisapearTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" />
       </list>
     </option>
   </component>
@@ -197,6 +204,7 @@
     <option name="width" value="1024" />
     <option name="height" value="640" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -262,6 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554780360387" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -434,8 +443,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="640" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.486911" visible="true" weight="0.3228106" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.486911" visible="true" weight="0.3228106" />
       <window_info id="Structure" order="1" sideWeight="0.513089" side_tool="true" weight="0.27494907" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,7 +459,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32807016" />
@@ -846,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>

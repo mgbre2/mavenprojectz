@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6f2b02-c3dc-4b35-bce8-60b62cba8b14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="175">
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -186,8 +186,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Good.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyTextDisapearTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AssertionsDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java" />
       </list>
     </option>
   </component>
@@ -922,8 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/JSAlerts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
         </state>
       </provider>
     </entry>

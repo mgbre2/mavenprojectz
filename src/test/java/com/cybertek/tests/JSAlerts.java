@@ -32,6 +32,7 @@ public class JSAlerts {
         driver.get("https://sweetalert.js.org/");
 
 //1 first commitg
+        ///second
         // trigger the pop up
         driver.findElement(By.xpath("(//button[@class='preview'])[1]")).click();
 

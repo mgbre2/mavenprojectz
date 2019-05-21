@@ -21,6 +21,7 @@ public class JSAlerts {
     }
 
     @AfterMethod
+
     public void cleanUp() throws InterruptedException {
         Thread.sleep(5000);
         //driver.quit();
@@ -30,7 +31,7 @@ public class JSAlerts {
     public void oopsTest() {
         driver.get("https://sweetalert.js.org/");
 
-
+//1 first commitg
         // trigger the pop up
         driver.findElement(By.xpath("(//button[@class='preview'])[1]")).click();
 
